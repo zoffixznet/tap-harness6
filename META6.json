@@ -6,6 +6,6 @@
     "provides" : {
     },
     "author" : "Leon Timmermans",
-    "depends" : [ ],
+    "depends" : [ "TAP::Harness" ],
     "source-url" : "git@github.com:stmuk/tap-harness6-prove6.git"
 }
